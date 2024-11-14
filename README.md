@@ -1,1 +1,1 @@
-Oh no, did I just commit that?!?!
+Just a repo for the obfuscated Go program
